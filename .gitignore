@@ -1,5 +1,5 @@
 .DS_Store
 .idea
 .class
-out/
 .iml
+.lab05/out
